@@ -1,0 +1,5 @@
+==>Criando o package.jason na pasta com o comando abaixo: / Prompt dr comando
+    = > C:\Desenvolvimento\JavaScript\RestApiLivro>npm init -y
+
+==> //para abrir projeto no  vsc / Prompt dr comando
+    = > C:\Desenvolvimento\JavaScript\RestApiLivro>Code .   
